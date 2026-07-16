@@ -7,7 +7,7 @@
 > Political theory × Computational social science × AI governance  
 > Building evidence-centered research workflows and human-governed AI tools for the social sciences.
 
-[个人博客](https://shenzhe-blog.vercel.app) · [全部项目](https://github.com/shenzhe-research?tab=repositories)
+[个人博客](https://shenzhe-blog.vercel.app) · [全部项目](https://github.com/Sen-platotech?tab=repositories)
 
 ## 研究议程
 
@@ -18,25 +18,25 @@
 
 ## 代表项目
 
-### [Ethics Council](https://github.com/shenzhe-research/ethics-council)
+### [Ethics Council](https://github.com/Sen-platotech/ethics-council)
 
 多智能体科研伦理审查工作台。通过领域审查、交叉讨论和结构化综合，帮助研究材料进入更适合人工正式审查的状态。
 
 **状态：早期研究原型。** 输出仅为 AI 辅助草案，不构成正式伦理批准。
 
-### [Mentor Writing Style](https://github.com/shenzhe-research/mentor-writing-style)
+### [Mentor Writing Style](https://github.com/Sen-platotech/mentor-writing-style)
 
 面向中文人文社会科学的写作风格分析 Skill：区分作者声音，量化文本特征，回到原文核验，并形成可操作的修订指南。
 
 **状态：实验性 Skill。** 用于风格诊断与写作约束，不用于冒充作者或替代学术判断。
 
-### [Paperflow](https://github.com/shenzhe-research/paperflow)
+### [Paperflow](https://github.com/Sen-platotech/paperflow)
 
 本地优先的学术文献发现与摄取工具：从期刊与元数据源获取候选论文，辅助翻译、摘要和 Markdown 报告生成。
 
 **状态：MVP。** 定位为文献候选池，不替代全文阅读、来源核验与学术综合。
 
-### [沈哲的博客](https://github.com/shenzhe-research/shenzhe-blog)
+### [沈哲的博客](https://github.com/Sen-platotech/shenzhe-blog)
 
 关于政治理论、社会史、数字技术、研究方法与个人经验的公共写作空间。
 
